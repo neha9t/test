@@ -1,0 +1,13 @@
+pkg/*
+doc/*
+tmp/*
+*.gem
+.bundle
+.yardoc
+reports/*.html
+*.tar.gz
+*.DS_Store
+*..sql
+*.bson
+cucumber.json
+logs/appium_logs.txt
