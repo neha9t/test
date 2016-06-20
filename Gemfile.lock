@@ -34,6 +34,7 @@ GEM
     pry-byebug (3.4.0)
       byebug (~> 9.0)
       pry (~> 0.10)
+    rake (11.1.2)
     rest-client (1.8.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
@@ -64,6 +65,7 @@ DEPENDENCIES
   json
   pry (~> 0.10.3)
   pry-byebug (~> 3.3)
+  rake (~> 11.1)
   rest-client
   rspec
 
